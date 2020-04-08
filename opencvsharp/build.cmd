@@ -1,0 +1,1 @@
+docker build -t feiwu/opencvsharp:aspnetcore3.1-opencv4.3.0 .
